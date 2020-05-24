@@ -2,7 +2,7 @@
 ## English
 Here's an implementation of the minimax algorithm with alpha-beta pruning into the game of Othello that I did in Artificial Intelligence subject when coursing the Computer Science degree at Universitat de Girona.  
 
-The original game implementation is made by Al Sweigart (al@inventwithpython.com)  
+The original game implementation was made by Al Sweigart (al@inventwithpython.com)  
 
 To play you will need pygame, you can install it by executing:  
 `pip install pygame`  
